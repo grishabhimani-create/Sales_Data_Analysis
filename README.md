@@ -23,7 +23,7 @@ This project is a Python-based command-line tool designed for interactive sales 
    pip install pandas matplotlib seaborn numpy
 
 
-   video expaination
+  ## video expaination
 
    https://drive.google.com/file/d/1C5QrVdXFKhakNmjkfnYS04TJOcgSxTDa/view?usp=sharing
    
